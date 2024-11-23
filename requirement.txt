@@ -1,4 +1,0 @@
-langchain 
-sentence-transformers 
-chromadb
-langchain-huggingface

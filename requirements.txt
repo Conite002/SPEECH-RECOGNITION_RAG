@@ -1,0 +1,9 @@
+langchain-core==0.3.19
+langsmith==0.1.144
+streamlit
+scholarly
+pdfplumber
+chromadb
+requests
+torch
+transformers
